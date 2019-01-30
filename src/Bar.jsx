@@ -33,7 +33,7 @@ const Bar = createReactClass({
                 className="bar"
                 x={x}
                 y={y}
-                width={width}
+                width={1}
                 height={height}
                 fill={fill}
                 onMouseMove={e => onMouseEnter(e, data)}

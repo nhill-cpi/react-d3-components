@@ -57,6 +57,5 @@
     "build:umd-dev": "webpack --config config/webpack.config.dev.js",
     "build:umd-prod": "webpack --config config/webpack.config.prod.js",
     "lint": "eslint src/*.jsx --fix",
-    "precommit": "lint-staged"
   }
 }
